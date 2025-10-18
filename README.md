@@ -72,6 +72,6 @@
     <li>Exam Timetable</li>
     <li>Important Updates</li>
   </ul>
-  <p>Created by: <b>Your Name</b></p>
+  <p>Created by: <b>Aditya Biradar</b></p>
 </body>
 </html>
